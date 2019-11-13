@@ -18,5 +18,6 @@
   13. [Deep learning 500 questions](https://github.com/scutan90/DeepLearning-500-questions)
   14. [Deep Learning papers reading roadmap for anyone who are eager to learn this amazing tech!](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap)
   15. [Artificial-Intelligence-Deep-Learning-Machine-Learning-Tutorials](https://github.com/didarulcseiubat17/Artificial-Intelligence-Deep-Learning-Machine-Learning-Tutorials)
+  16. [5 GitHub Repositories that Every New Developer Must Follow](https://www.geeksforgeeks.org/5-github-repositories-that-every-new-developer-must-follow/)
 
   
