@@ -19,5 +19,9 @@
   14. [Deep Learning papers reading roadmap for anyone who are eager to learn this amazing tech!](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap)
   15. [Artificial-Intelligence-Deep-Learning-Machine-Learning-Tutorials](https://github.com/didarulcseiubat17/Artificial-Intelligence-Deep-Learning-Machine-Learning-Tutorials)
   16. [5 GitHub Repositories that Every New Developer Must Follow](https://www.geeksforgeeks.org/5-github-repositories-that-every-new-developer-must-follow/)
+  17. [https://github.com/EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books)
+  18. [500 Data Structures and Algorithms interview questions and their solutions](https://www.quora.com/q/kqxqbzywcunzbyyp/500-Data-Structures-and-Algorithms-interview-questions-and-their-solutions)
+  19. [System Design](https://www.interviewbit.com/courses/system-design/topics/storage-scalability/)
+  20. [problem-sets-competitive-programming](https://github.com/EbookFoundation/free-programming-books/blob/master/problem-sets-competitive-programming.md)
 
   
