@@ -30,5 +30,13 @@
   25. [Data science note](https://github.com/abhat222/Data-Science--Cheat-Sheet)
   26. [The Ultimate Learning Path to Become a Data Scientist and Master Machine Learning in 2019](https://www.analyticsvidhya.com/blog/2019/01/learning-path-data-scientist-machine-learning-2019/)
   27. [ML roadmap](https://github.com/JsonChao/ML-Roadmap)
+  28. [Deep learning Roadmap ](https://towardsdatascience.com/a-road-map-for-deep-learning-b9aee0b2919f)
+  29. [Machine Learning & Deep Learning Roadmap](https://github.com/mihui/ml)
+  30. [machine-learning-roadmap-2019](https://github.com/libracoder/machine-learning-roadmap-2019/blob/master/README.md)
+  31. [How I plan to become a machine learning engineer](https://www.codementor.io/zuzoovn/how-i-plan-to-become-a-machine-learning-engineer-a4metbcuk)
+  32.[Top-down learning path: Machine Learning for Software Engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers)
+  33. [Machine Learning Engineer](https://github.com/vidu171/Machine-Learning-Study-Path-March-2019/tree/master/Career%20Paths/Machine%20Learning%20Engineer%20Career%20Path)
+  34. [All You Need to Know About Deep Learning - A kick-starter](https://github.com/machinelearningmindset/deep-learning-roadmap)
+  35. [AI road map](https://github.com/NextTechLab/Minsky-AI-Roadmap)
 
   
