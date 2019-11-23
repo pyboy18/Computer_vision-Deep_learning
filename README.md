@@ -28,5 +28,7 @@
   23. [ML cheatsheet](https://medium.com/machine-learning-in-practice/cheat-sheet-of-machine-learning-and-python-and-math-cheat-sheets-a4afe4e791b6)
   24. [Common Machine learning algorithm](https://www.analyticsvidhya.com/blog/2017/09/common-machine-learning-algorithms/)
   25. [Data science note](https://github.com/abhat222/Data-Science--Cheat-Sheet)
+  26. [The Ultimate Learning Path to Become a Data Scientist and Master Machine Learning in 2019](https://www.analyticsvidhya.com/blog/2019/01/learning-path-data-scientist-machine-learning-2019/)
+  27. [ML roadmap](https://github.com/JsonChao/ML-Roadmap)
 
   
