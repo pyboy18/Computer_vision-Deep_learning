@@ -26,5 +26,6 @@
   21. [ML Standford course note](https://stanford.edu/~shervine/teaching/cs-230/)
   22. [AI and ML best note with example](https://ml-cheatsheet.readthedocs.io/en/latest/linear_regression.html)
   23. [ML cheatsheet](https://medium.com/machine-learning-in-practice/cheat-sheet-of-machine-learning-and-python-and-math-cheat-sheets-a4afe4e791b6)
+  24. [Common Machine learning algorithm](https://www.analyticsvidhya.com/blog/2017/09/common-machine-learning-algorithms/)
 
   
