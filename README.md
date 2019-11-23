@@ -23,5 +23,8 @@
   18. [500 Data Structures and Algorithms interview questions and their solutions](https://www.quora.com/q/kqxqbzywcunzbyyp/500-Data-Structures-and-Algorithms-interview-questions-and-their-solutions)
   19. [System Design](https://www.interviewbit.com/courses/system-design/topics/storage-scalability/)
   20. [problem-sets-competitive-programming](https://github.com/EbookFoundation/free-programming-books/blob/master/problem-sets-competitive-programming.md)
+  21. [ML Standford course note](https://stanford.edu/~shervine/teaching/cs-230/)
+  22. [AI and ML best note with example](https://ml-cheatsheet.readthedocs.io/en/latest/linear_regression.html)
+  23. [ML cheatsheet](https://medium.com/machine-learning-in-practice/cheat-sheet-of-machine-learning-and-python-and-math-cheat-sheets-a4afe4e791b6)
 
   
