@@ -37,8 +37,15 @@
   32.[Top-down learning path: Machine Learning for Software Engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers)
   33. [Machine Learning Engineer](https://github.com/vidu171/Machine-Learning-Study-Path-March-2019/tree/master/Career%20Paths/Machine%20Learning%20Engineer%20Career%20Path)
   34. [All You Need to Know About Deep Learning - A kick-starter](https://github.com/machinelearningmindset/deep-learning-roadmap)
+  
   35. [AI road map](https://github.com/NextTechLab/Minsky-AI-Roadmap)
+  
   36.[How It Feels to Learn Data Science in 2019](https://towardsdatascience.com/how-it-feels-to-learn-data-science-in-2019-6ee688498029)
+  
+  37.[The four areas of machine learning education](https://www.tensorflow.org/resources/learn-ml/basics-of-tensorflow-for-js-development/)
+  
+  38.[Hack the News Datathon Case – Propaganda Detection](https://www.datasciencesociety.net/hack-news-datathon-case-propaganda-detection/)
+  
   
 
   
