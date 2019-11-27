@@ -46,6 +46,8 @@
   
   38.[Hack the News Datathon Case – Propaganda Detection](https://www.datasciencesociety.net/hack-news-datathon-case-propaganda-detection/)
   
+  39. [Deployment of Web App + ML Model + APIs — Tutorial](https://towardsdatascience.com/simple-deployment-of-web-app-ml-model-apis-tutorial-2ece8e66d98c)
+  
   
 
   
